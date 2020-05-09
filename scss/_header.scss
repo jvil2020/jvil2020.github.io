@@ -1,0 +1,7 @@
+header{
+    height: 24vh;
+    background-color: #000;
+    background: url($url + 'assets/img/fondo_header.png') center/cover no-repeat;
+    margin-left: $ancho_sidenav;
+    width: calc(100% - $ancho_sidenav);
+}
